@@ -1,16 +1,4 @@
-/* CSS way 3: Creating a separate css file */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:ital,wght@0,700;1,300&display=swap');
 body {
-    color: red;
-}
-h1 {
-    color: blue;
-}
-h2 {
-    color: green;
-}
-#lib-header {
-    color:gray;
-}
-.para {
-    color: purple
+    font-family: 'Montserrat', sans-serif;
 }
