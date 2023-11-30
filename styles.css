@@ -1,0 +1,10 @@
+/* CSS way 3: Creating a separate css file */
+body {
+    color: red;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: green;
+}
